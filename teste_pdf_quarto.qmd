@@ -42,4 +42,22 @@ The `echo: false` option disables the printing of code (only output is displayed
 
 ![](rstudio-source-visual.png){fig-align="center" width="642" height="473"}
 
-## 
+## Listas
+
+-   Item 1;
+
+-   Item 2;
+
+-   Item 3;
+
+-   Item 4
+
+-   Item 5.
+
+## Lista numerada
+
+1.  Item 1;
+
+2.  Item 2;
+
+3.  Item 3.
