@@ -2,9 +2,9 @@
 title: "My document"
 format:
   pdf:
-    toc: true
+    toc: false
     number-sections: false
-    colorlinks: true
+    colorlinks: false
 ---
 
 ## Quarto
