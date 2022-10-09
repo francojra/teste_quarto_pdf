@@ -1,10 +1,6 @@
 ---
 title: "My document"
-format:
-  pdf:
-    toc: false
-    number-sections: false
-    colorlinks: false
+format: pdf
 ---
 
 ## Quarto
@@ -28,6 +24,22 @@ You can add options to executable code like this
 
 The `echo: false` option disables the printing of code (only output is displayed).
 
+## Tabela
+
+**Tabela 1.** Tabela exemplo para o sistema de publicação Quarto.
+
+|  **Col1**   | **Col2** | **Col3** | **Col4** | **Col5** |
+|:-----------:|:--------:|:--------:|:--------:|:--------:|
+|  **hmfh**   |   424    |   758    |   3467   |   578    |
+| **nmsrfmn** |   2525   |   4252   |   4574   |   587    |
+|  **gnsn**   |   254    |   2524   |   4674   |   585    |
+|  **sgns**   |    46    |  435636  |   536    |    85    |
+|  **sgnn**   |   647    |    47    |   6585   |   456    |
+
 ## Imagens
 
+**Figura 1.** Imagem exemplo para o sistema de publicação Quarto.
+
 ![](rstudio-source-visual.png){fig-align="center" width="642" height="473"}
+
+## 
